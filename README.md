@@ -4,8 +4,8 @@ I build tools I use myself. These are the ones I'd show first:
 
 - [farmfind](https://github.com/tigran-martirosian/farmfind): reads products from farm web shops and works out the cheapest way to buy a shopping list. Python, FastAPI, React.
 - [cited-research-assistant](https://github.com/tigran-martirosian/cited-research-assistant): answers questions from a document library and cites the exact passage behind each claim. Python, FastAPI, React.
-- [ai-coding-setup](https://github.com/tigran-martirosian/ai-coding-setup): the setup I do most of my development with, AI coding agents under my rules, checks and commands. TypeScript, Node.js.
-- [remotion-video-pipeline](https://github.com/tigran-martirosian/remotion-video-pipeline): turns a written script into a finished animated video. React, Remotion.
+- [ai-coding-setup](https://github.com/tigran-martirosian/ai-coding-setup): the setup I do most of my development with, AI coding agents under my rules, checks and commands. JavaScript, TypeScript, Node.js.
+- [remotion-video-pipeline](https://github.com/tigran-martirosian/remotion-video-pipeline): renders short vertical explainer videos from a config of scenes, with automated layout checks. React, Remotion.
 - [farm-availability-bot](https://github.com/tigran-martirosian/farm-availability-bot): a Telegram bot that told users when farm products they watched came back in stock. Python.
 - [poe-map-pack-size](https://github.com/tigran-martirosian/poe-map-pack-size): a hotkey tool for the game Path of Exile, used by about 100 players. Python.
 
