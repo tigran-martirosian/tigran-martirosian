@@ -1,4 +1,4 @@
-I'm Tigran Martirosian, a software developer in New Jersey. I build full-stack web apps and LLM tools in Python, TypeScript and React, and I'm looking for full-time, part-time or contract work as a developer. Right now I'm on a contract writing eBay automation for a small business: listings from the owner's photos, and order tracking through eBay's API.
+I'm Tigran Martirosian, a software developer in New Jersey. I build full-stack web apps and LLM tools in Python, TypeScript and React, and I'm looking for full-time, part-time or contract work as a developer. Right now I'm on a contract building eBay automation for a small business.
 
 I build tools I use myself. These are the ones I'd show first:
 
